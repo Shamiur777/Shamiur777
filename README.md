@@ -8,6 +8,7 @@ I find bottlenecks in real operations, then build and deploy AI systems to fix t
 
 | Project | What it shows |
 |---|---|
+| [Ledgerline](https://github.com/Shamiur777/Ledgerline-by-Shamiur-Rahman) | Multi-tenant accounting app (Next.js, Postgres). Tenant isolation enforced by the database, four-eyes payment approvals, audit log. 77 database assertions, 39 unit tests and 3 end-to-end flows in CI |
 | [invoice-intake](https://github.com/Shamiur777/invoice-intake) | AI invoice extraction with a human review queue. Review rules check the arithmetic as well as the model's confidence |
 | [mcp-mock-erp](https://github.com/Shamiur777/mcp-mock-erp) | An MCP server that lets Claude operate an HR and finance system safely: role-based access, confirmation for destructive actions, audit log |
 | [study-assistant](https://github.com/Shamiur777/study-assistant) | Question answering with citations that refuses when the notes don't cover the answer. Tuned on one split, measured on a held-out split |
